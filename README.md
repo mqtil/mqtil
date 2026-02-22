@@ -6,8 +6,6 @@ Fluent in Java.
 
 14
 
-Certified eJPT, CompTIA+, soon OSCP.
-
 
 
 ### My Non-existent statistics
