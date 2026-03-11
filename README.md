@@ -16,7 +16,7 @@ Fluent in Java.
   <img src="https://komarev.com/ghpvc/?username=0xLambdaExpr&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mqtil&theme=bear&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xLambda&theme=bear&background=000000)](https://git.io/streak-stats)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xLambdaExpr&count_private=true&theme=bear&langs_count=7" /> 
